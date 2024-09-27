@@ -1,10 +1,10 @@
-<h1 align="center">Momito | Full stack Eng</h1>
+<h1 align="center">Mohamed | Full stack Eng</h1>
 
 ###
 
 <h3 align="left">⚫️  About Me</h3>
 
-<p align="left">Based in London, UK<br><br>👾 - Fullstack Engineer by day, hacker by night<br>🏔️ - Bouldering, hiking, and building</p>
+<p align="left">Based in London, UK<br><br>👾 - Fullstack Engineer @ BBC by day, hacker by night<br>🏔️ - Bouldering, hiking, and building</p>
 
 ###
 
