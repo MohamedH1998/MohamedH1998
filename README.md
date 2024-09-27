@@ -4,7 +4,11 @@
 
 <h3 align="left">⚫️  About Me</h3>
 
-<p align="left">Based in London, UK<br><br>👾 - Fullstack Engineer @ BBC by day, hacker by night<br>🏔️ - Bouldering, hiking, and building</p>
+<p align="left">Based in London, UK<br><br>👾 - Fullstack Engineer @ BBC by day, hacker by night<br>🏔️ - Bouldering, hiking, and building<br/>
+ <a href="https://momito.co.uk/">⚫️ - Personal portfolio</a>
+  <br/>
+  <a href="https://www.linkedin.com/in/mohamedahassan1998/">🔵 - LinkedIn Profile</a>
+</p>
 
 ###
 
