@@ -21,10 +21,3 @@
 <p align="left">- JavaScript, TypeScript<br>- React, Next.js<br>- Redux<br>- Node.js, Express<br>- SQL and NoSQL databases<br>- AWS<br>- CMS i.e., Sanity.io, Prismic</p>
 
 ###
-
-<h3 align="left">⚫️ Stats</h3>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MohamedH1998&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
