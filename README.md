@@ -18,14 +18,7 @@
 - **[The Names App](https://thenames.app)** — Educational app teaching the 99 Names of Allah, ranked #64 in Top Free Educational Apps on iOS & Android.
 
 ---
-
-### Tech Stack
-- **Languages:** JavaScript, TypeScript, Python  
-- **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Express, Prisma  
-- **Databases:** PostgreSQL, MongoDB, Redis  
-- **Cloud & DevOps:** AWS (Lambda, EC2, S3), Docker, GitHub Actions  
-- **Testing:** Jest, Cypress, Playwright  
+  
 ### ⚫️ Tech Stack
 - **Languages:** JavaScript, TypeScript, Python  
 - **Frontend:** React, Next.js, Tailwind CSS  
