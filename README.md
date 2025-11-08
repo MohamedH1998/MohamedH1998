@@ -11,26 +11,13 @@
 
 ### ⚫️ Recent Projects
 
-#### 🟢 [Onbored](https://www.onbored.io)
-AI-powered **Retention OS** for B2B SaaS companies — replacing dashboards with decisions.  
-Tracks onboarding drop-off, user friction, and revenue insights in real time.
-
-#### 🟢 [Lightning](https://withlightning.com)
-London-based **product development agency** that takes startups from *idea → live product*.  
-Specialises in B2B SaaS, activation optimisation, and insight-driven UX.
-
-#### 🟢 [Leone Logistics Platform]
-End-to-end **fleet management and telematics system** built for logistics operators.  
-Provides trip tracking, document management, and real-time operational visibility.
-
-#### 🟢 [Civic Say](https://www.civicsay.com)
-Platform enabling **grant-makers** to allocate funds more efficiently and transparently — ~**£400,000** distributed via the platform.
-
-#### 🟢 [Crafted Web Templates](https://craftedwebtemplates.com)
-Customisable **website templates** for graduates and freelancers building strong portfolios.
-
-#### 🔵 [The Names App](https://thenames.app)
-Educational mobile app teaching the **99 Names of Allah** — ranked *#64 Top Free Educational Apps* on iOS at launch.
+### ⚫️ Recent Projects
+[Onbored](https://www.onbored.io) — AI-powered Retention OS for B2B SaaS companies, replacing dashboards with decisions.  
+[Lightning](https://withlightning.com) — Product development agency taking startups from idea → live product, focused on B2B SaaS and activation optimisation.  
+[Leone Logistics Platform] — End-to-end fleet management and telematics system providing trip tracking, document management, and operational visibility.  
+[Civic Say](https://www.civicsay.com) — Grant allocation platform enabling transparent fund distribution (~£400K+ allocated).  
+[Crafted Web Templates](https://craftedwebtemplates.com) — Customisable website templates for graduates and freelancers.  
+[The Names App](https://thenames.app) — Educational app teaching the 99 Names of Allah, ranked #64 in Top Free Educational Apps on iOS & Android.
 
 ---
 
