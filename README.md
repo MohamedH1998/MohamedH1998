@@ -1,6 +1,6 @@
-# Mohamed Hassan | Full-Stack Engineer
+# Mohamed Hassan | Product Engineer
 
-### ⚫️ About Me
+### About Me
 - Based in **London, UK**  
 - 👾 **Software Engineer @ BBC**
 - 🏔️ Enjoys **bouldering, hiking, and shipping products**  
@@ -9,9 +9,7 @@
 
 ---
 
-### ⚫️ Recent Projects
-
-### ⚫️ Recent Projects
+### Recent Projects
 - **[Onbored](https://www.onbored.io)** — AI-powered Retention OS for B2B SaaS companies, replacing dashboards with decisions.  
 - **[Lightning](https://withlightning.com)** — Product development agency taking startups from idea → live product, focused on B2B SaaS and activation optimisation.  
 - **Leone Logistics Platform** — End-to-end fleet management and telematics system providing trip tracking, document management, and operational visibility.  
@@ -21,7 +19,7 @@
 
 ---
 
-### ⚫️ Tech Stack
+### Tech Stack
 - **Languages:** JavaScript, TypeScript, Python  
 - **Frontend:** React, Next.js, Tailwind CSS  
 - **Backend:** Node.js, Express, Prisma  
