@@ -12,12 +12,12 @@
 ### ⚫️ Recent Projects
 
 ### ⚫️ Recent Projects
-[Onbored](https://www.onbored.io) — AI-powered Retention OS for B2B SaaS companies, replacing dashboards with decisions.  
-[Lightning](https://withlightning.com) — Product development agency taking startups from idea → live product, focused on B2B SaaS and activation optimisation.  
-[Leone Logistics Platform] — End-to-end fleet management and telematics system providing trip tracking, document management, and operational visibility.  
-[Civic Say](https://www.civicsay.com) — Grant allocation platform enabling transparent fund distribution (~£400K+ allocated).  
-[Crafted Web Templates](https://craftedwebtemplates.com) — Customisable website templates for graduates and freelancers.  
-[The Names App](https://thenames.app) — Educational app teaching the 99 Names of Allah, ranked #64 in Top Free Educational Apps on iOS & Android.
+- **[Onbored](https://www.onbored.io)** — AI-powered Retention OS for B2B SaaS companies, replacing dashboards with decisions.  
+- **[Lightning](https://withlightning.com)** — Product development agency taking startups from idea → live product, focused on B2B SaaS and activation optimisation.  
+- **[Leone Logistics Platform]** — End-to-end fleet management and telematics system providing trip tracking, document management, and operational visibility.  
+- **[Civic Say](https://www.civicsay.com)** — Grant allocation platform enabling transparent fund distribution (~£400K+ allocated).  
+- **[Crafted Web Templates](https://craftedwebtemplates.com)** — Customisable website templates for graduates and freelancers.  
+- **[The Names App](https://thenames.app)** — Educational app teaching the 99 Names of Allah, ranked #64 in Top Free Educational Apps on iOS & Android.
 
 ---
 
