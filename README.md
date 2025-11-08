@@ -24,7 +24,7 @@ End-to-end **fleet management and telematics system** built for logistics operat
 Provides trip tracking, document management, and real-time operational visibility.
 
 #### 🟢 [Civic Say](https://www.civicsay.com)
-Platform enabling **grant-makers** to allocate funds more efficiently and transparently — over **£250,000** distributed via the platform.
+Platform enabling **grant-makers** to allocate funds more efficiently and transparently — ~**£400,000** distributed via the platform.
 
 #### 🟢 [Crafted Web Templates](https://craftedwebtemplates.com)
 Customisable **website templates** for graduates and freelancers building strong portfolios.
@@ -49,8 +49,3 @@ Educational mobile app teaching the **99 Names of Allah** — ranked *#64 Top Fr
 - **Cloud & DevOps:** AWS (Lambda, EC2, S3), Docker, GitHub Actions  
 - **Testing:** Jest, Cypress, Playwright  
 - **Other:** Figma, CMS (Sanity, Prismic), OLAP & Analytics Systems
-
-
----
-
-> ⚫️ *“Building things that last — in code, community, and craft.”*
