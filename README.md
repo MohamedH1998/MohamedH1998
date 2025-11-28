@@ -2,14 +2,15 @@
 
 ### About Me
 - Based in **London, UK**  
-- 👾 **Software Engineer @ BBC**
-- 🏔️ Enjoys **bouldering, hiking, and shipping products**  
-- ⚫️ [Personal Portfolio](https://momito.co.uk)  
-- 🔵 [LinkedIn Profile](https://www.linkedin.com/in/mohamedahassan1998)
+- **Software Engineer @ BBC**
+- Enjoys **bouldering, hiking, and shipping products**  
+- [Personal Portfolio](https://momito.co.uk)  
+- [LinkedIn Profile](https://www.linkedin.com/in/mohamedahassan1998)
 
 ---
 
 ### Recent Projects
+- **[Cleminitine CLI](https://github.com/MohamedH1998/clementine-cli/)** - Instant setup for Cloudflare Workers primitives.
 - **[Onbored](https://www.onbored.io)** — AI-powered Retention OS for B2B SaaS companies, replacing dashboards with decisions.  
 - **[Lightning](https://withlightning.com)** — Product development agency taking startups from idea → live product, focused on B2B SaaS and activation optimisation.  
 - **Leone Logistics Platform** — End-to-end fleet management and telematics system providing trip tracking, document management, and operational visibility.  
@@ -19,7 +20,7 @@
 
 ---
   
-### ⚫️ Tech Stack
+### Tech Stack
 - **Languages:** JavaScript, TypeScript, Python  
 - **Frontend:** React, Next.js, Tailwind CSS  
 - **Backend:** Node.js, Express, Prisma  
