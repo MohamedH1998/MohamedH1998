@@ -2,7 +2,7 @@
 
 ### About Me
 - Based in **London, UK**  
-- **Software Engineer @ BBC**
+- **Design Engineer @ BBC**
 - Enjoys **bouldering, hiking, and shipping products**  
 - [Personal Portfolio](https://momito.co.uk)  
 - [LinkedIn Profile](https://www.linkedin.com/in/mohamedahassan1998)
